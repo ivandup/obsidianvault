@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP Notes.md",
+                "file": "DiGiT/OSCP Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,9 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "7ae8bcc652dd34d7",
+  "active": "bb5c9dd7c9fb97ec",
   "lastOpenFiles": [
-    "Cyber Security.md",
-    "OSCP Notes.md"
+    "DiGiT/Cyber Security.md",
+    "DiGiT/OSCP Notes.md"
   ]
 }
