@@ -21,5 +21,5 @@ tshark -V -i eth0 'tcp port 80'
 -i => Interface
 'tcp port 80' => filter options (e.g.: TCP port 80). Can also use grep, awk or sed or other commands.
 
-tshark -V -i eth0 'tcp port 80' | grep "Form item"
+tshark -V -i eth0 'tcp port 80' | grep "For "
 
