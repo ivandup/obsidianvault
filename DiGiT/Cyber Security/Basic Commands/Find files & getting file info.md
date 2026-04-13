@@ -1,4 +1,4 @@
-# Find Command:
+# -->Find Command:
 #### Find files 2 directories deep:
 ```
 find / -mexdepth -name ".html"
@@ -56,7 +56,7 @@ sort data.txt | uniq -u
 strings data.txt | grep '==='
 ```
 
-# locate command:
+# --> locate command:
 Will find any file that you specify, extension, etc.
 
 ### updated command
@@ -66,7 +66,7 @@ updatedb
 
 will find all files on the file system and index it
 
-## which Command
+## --> which Command
 ```
 which -a <fileName>*
 ```
@@ -74,10 +74,10 @@ which -a <fileName>*
 Find location of a app to show all the places where the app is installed.
 
 
-### FILES
+# -->FILES
 
 Check what type of file a file is.
-# Example:
+#### Example:
 ```
 file /etc/init.d/apache2
 ```
@@ -94,5 +94,12 @@ ls /etc/init.d
 update-rc.s <serviceName> <enable|disable|start|stop>
 ```
 
+# Combining Commands
+Searching for files and see what type of files they are.
+Example, search for files starting with "sdb" 
+```
+find / -name sdb* -exec file {} \;
+```
 
-
+Example output:
+![[Pasted image 20260413211747.png|697]]

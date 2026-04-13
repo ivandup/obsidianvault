@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "Wireshark & tcpdump"
             }
-          },
-          {
-            "id": "f75b119b1a7426e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OSCP Notes"
-            }
-          },
-          {
-            "id": "4b8032a5980aef18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,21 +180,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "4b8032a5980aef18",
+  "active": "c0bb910f492111f2",
   "lastOpenFiles": [
+    "Cyber Security/Basic Commands/Services.md",
     "OSCP Notes.md",
+    "Cyber Security/Tool Uage/Netcat Cheat Sheet.md",
+    "Cyber Security/Basic Commands/SSH Command.md",
+    "Cyber Security/Tool Uage/Installing Tools.md",
+    "Cyber Security/Tool Uage/Burp Suite.md",
+    "Cyber Security/Basic Commands/Find files & getting file info.md",
+    "Cyber Security/Basic Commands/Modifying Files.md",
+    "Pasted image 20260413211747.png",
     "Untitled.md",
     "Pasted image 20260404075940.png",
     "GOAD on Kali & Virtualbox.md",
     "Labs/GO-AD.md",
-    "Cyber Security/Tool Uage/Buirp Suite.md",
     "Cyber Security/Tool Uage/Wireshark & tcpdump.md",
     "Pasted image 20260404075830.png",
-    "Cyber Security/Basic Commands/Find files & getting file info.md",
     "Labs",
     "Cyber Security/Tool Uage/Reverse Shells/Bind & Reverse Shells (All).md",
     "Cyber Security/Tool Uage/Reverse Shells/Web Shells.md",
-    "Cyber Security/Tool Uage/Installing Tools.md",
     "Cyber Security/Tool Uage/nmap.md",
     "Cyber Security/Tool Uage/Reverse Shells/Python Reverse Shell.md",
     "Cyber Security/Tool Uage/Reverse Shells/Bash Reverse Shell.md",
@@ -231,12 +207,9 @@
     "Tool Uage/Reverse Shells/Perl Reverse Shell",
     "Cyber Security/Tool Uage/Reverse Shells",
     "Cyber Security/Tool Uage/nc & ncat.md",
-    "Cyber Security/Tool Uage/Netcat Cheat Sheet.md",
     "Tool Uage/nmap",
     "Cyber Security/Tool Uage",
     "Cyber Security/Basic Commands",
-    "Cyber Security/Basic Commands/Modifying Files.md",
-    "Cyber Security/Basic Commands/SSH Command.md",
     "Cyber Security/Scripting/BASH Scripting Basics.md",
     "Cyber Security/Scripting",
     "Cyber Security.md",
