@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiGiT/OSCP Notes.md",
+                "file": "DiGiT/Cyber Security/Tool Uage/BurpSuite/Burp Suite Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSCP Notes"
+              "title": "Burp Suite Basics"
             }
           }
         ]
@@ -183,9 +183,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb5c9dd7c9fb97ec",
+  "active": "7ae8bcc652dd34d7",
   "lastOpenFiles": [
-    "DiGiT/Cyber Security.md",
-    "DiGiT/OSCP Notes.md"
+    "Pasted image 20260416070154.png",
+    "Pasted image 20260416070027.png",
+    "Pasted image 20260416065925.png",
+    "Pasted image 20260416065826.png",
+    "Pasted image 20260416065647.png",
+    "Pasted image 20260416065507.png",
+    "DiGiT/Cyber Security/Tool Uage/BurpSuite",
+    "Pasted image 20260416065327.png",
+    "Pasted image 20260416065121.png",
+    "DiGiT/Cyber Security/Tool Uage/Tools to investigate.md",
+    "DiGiT/Cyber Security/Tool Uage/BurpSuite/Burp Suite Basics.md",
+    "Pasted image 20260416064519.png",
+    "Pasted image 20260416064341.png",
+    "DiGiT/OSCP Notes.md",
+    "DiGiT/Cyber Security.md"
   ]
 }
