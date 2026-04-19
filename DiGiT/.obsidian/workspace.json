@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Tool Uage/Wireshark & tcpdump.md",
+                "file": "Cyber Security/Kill Chain/00 The Kill Chain/Cyber Kill Chain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wireshark & tcpdump"
+              "title": "Cyber Kill Chain"
+            }
+          },
+          {
+            "id": "2d80309b7fb02d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Basic Commands/Find files & getting file info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Find files & getting file info"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,39 +195,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "c0bb910f492111f2",
+  "active": "2d80309b7fb02d11",
   "lastOpenFiles": [
+    "Cyber Security/Kill Chain/01 Recon/01.1 Passive Recon.md",
+    "Untitled.md",
+    "Cyber Security/Kill Chain/00 The Kill Chain/Cyber Kill Chain.md",
+    "Cyber Security/Kill Chain/01 Recon",
+    "Pasted image 20260419050136.png",
+    "Cyber Security/Tool Uage/Reverse Shells/Bind & Reverse Shells (All).md",
+    "Cyber Security/Kill Chain/00 The Kill Chain",
+    "Cyber Security/Kill Chain",
+    "Cyber Security/Tool Uage/Reverse Shells/Bash Reverse Shell.md",
+    "Cyber Security/Tool Uage/Netcat & ncat/nc & ncat.md",
+    "Pasted image 20260419044435.png",
+    "Pasted image 20260419041829.png",
+    "Pasted image 20260419041708.png",
+    "Pasted image 20260419041543.png",
+    "Cyber Security/Scripting/BASH Scipting/02 BASH - Ping Sweeper Script.md",
+    "Cyber Security/Tool Uage/Netcat & ncat",
+    "Pasted image 20260419040333.png",
+    "Cyber Security/Scripting/BASH Scipting/01 Get Sub domains examples.md",
+    "Cyber Security/Scripting/BASH Scipting/00 BASH Scripting Basics.md",
+    "Pasted image 20260418053612.png",
+    "Pasted image 20260418053030.png",
+    "Pasted image 20260418052132.png",
+    "Pasted image 20260418051908.png",
+    "Cyber Security/Scripting/BASH Scipting",
+    "Cyber Security/Tool Uage/Wireshark & tcpdump.md",
     "Cyber Security/Basic Commands/Services.md",
     "OSCP Notes.md",
-    "Cyber Security/Tool Uage/Netcat Cheat Sheet.md",
+    "Cyber Security/Tool Uage/Netcat & ncat/Netcat Cheat Sheet.md",
     "Cyber Security/Basic Commands/SSH Command.md",
     "Cyber Security/Tool Uage/Installing Tools.md",
     "Cyber Security/Tool Uage/Burp Suite.md",
     "Cyber Security/Basic Commands/Find files & getting file info.md",
     "Cyber Security/Basic Commands/Modifying Files.md",
-    "Pasted image 20260413211747.png",
-    "Untitled.md",
-    "Pasted image 20260404075940.png",
     "GOAD on Kali & Virtualbox.md",
     "Labs/GO-AD.md",
-    "Cyber Security/Tool Uage/Wireshark & tcpdump.md",
-    "Pasted image 20260404075830.png",
     "Labs",
-    "Cyber Security/Tool Uage/Reverse Shells/Bind & Reverse Shells (All).md",
     "Cyber Security/Tool Uage/Reverse Shells/Web Shells.md",
     "Cyber Security/Tool Uage/nmap.md",
     "Cyber Security/Tool Uage/Reverse Shells/Python Reverse Shell.md",
-    "Cyber Security/Tool Uage/Reverse Shells/Bash Reverse Shell.md",
     "Cyber Security/Tool Uage/Reverse Shells/Perl Reverse Shell.md",
     "Tool Uage/Reverse Shells/Perl Reverse Shell",
     "Cyber Security/Tool Uage/Reverse Shells",
-    "Cyber Security/Tool Uage/nc & ncat.md",
     "Tool Uage/nmap",
     "Cyber Security/Tool Uage",
-    "Cyber Security/Basic Commands",
-    "Cyber Security/Scripting/BASH Scripting Basics.md",
-    "Cyber Security/Scripting",
-    "Cyber Security.md",
-    "Cyber Security"
+    "Cyber Security.md"
   ]
 }

