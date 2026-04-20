@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "265bb5216133f5cd",
+        "id": "41a318cddd59084b",
         "type": "tabs",
         "children": [
           {
-            "id": "7ae8bcc652dd34d7",
+            "id": "f0488f255a3194be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiGiT/Cyber Security/Tool Uage/BurpSuite/Burp Suite Basics.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Burp Suite Basics"
+              "title": "New tab"
             }
           }
         ]
@@ -183,21 +179,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "7ae8bcc652dd34d7",
+  "active": "f0488f255a3194be",
   "lastOpenFiles": [
+    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/DNS Search Engines.md",
+    "DiGiT/Cyber Security/Tool Uage/BurpSuite/Burp Suite Basics.md",
+    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/Basic commands.md",
+    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/dnsrecon.md",
+    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/dnsenum.md",
+    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration",
+    "DiGiT/Cyber Security/Kill Chain/01 Recon/01.1 Passive Recon/Google/01.2 Google Dorking DB & Parameters.md",
+    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon",
+    "DiGiT/Cyber Security/Kill Chain/01 Recon/01.1 Passive Recon/Google",
+    "DiGiT/Cyber Security/Kill Chain/01 Recon/01.1 Passive Recon/Google/01.1 Google Dorking Basics.md",
+    "DiGiT/Cyber Security/Kill Chain/01 Recon/01.1 Passive Recon",
+    "DiGiT/Cyber Security/Tool Uage/Metasploit/Metasploit Basics.md",
+    "Pasted image 20260420063110.png",
+    "Pasted image 20260420063033.png",
+    "Pasted image 20260420062827.png",
+    "Pasted image 20260420062708.png",
+    "Pasted image 20260420062620.png",
+    "Pasted image 20260420062307.png",
+    "DiGiT/Cyber Security/Tool Uage/Metasploit",
     "Pasted image 20260416070154.png",
     "Pasted image 20260416070027.png",
     "Pasted image 20260416065925.png",
     "Pasted image 20260416065826.png",
-    "Pasted image 20260416065647.png",
-    "Pasted image 20260416065507.png",
     "DiGiT/Cyber Security/Tool Uage/BurpSuite",
-    "Pasted image 20260416065327.png",
-    "Pasted image 20260416065121.png",
     "DiGiT/Cyber Security/Tool Uage/Tools to investigate.md",
-    "DiGiT/Cyber Security/Tool Uage/BurpSuite/Burp Suite Basics.md",
-    "Pasted image 20260416064519.png",
-    "Pasted image 20260416064341.png",
     "DiGiT/OSCP Notes.md",
     "DiGiT/Cyber Security.md"
   ]
