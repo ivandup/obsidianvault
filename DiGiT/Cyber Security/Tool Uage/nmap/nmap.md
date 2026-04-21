@@ -1,11 +1,23 @@
---------------
+nmap Scripting Engine (NSE)
+![[Pasted image 20260421062622.png]]
+
+![[Pasted image 20260421062639.png]]
+
+![[Pasted image 20260421062656.png]]
+
+![[Pasted image 20260421062708.png]]
+
+![[Pasted image 20260421062724.png]]
+
+![[Pasted image 20260421062744.png]]
+
+![[Pasted image 20260421062804.png]]
 
 
 check which ip are alive:
 ```
 nmap -sP <ipAddressOrIPRange>
 ```
-
 
 #### pipe to another file and only print the IP's which are UP (and print the second field)
 ```
