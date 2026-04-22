@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiGiT/Cyber Security/Cheat Sheets/Cheat sheet sites.md",
+                "file": "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/metasploit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheat sheet sites"
+              "title": "metasploit"
             }
           }
         ]
@@ -185,8 +185,24 @@
   },
   "active": "95d662ed623df2a6",
   "lastOpenFiles": [
-    "DiGiT/Cyber Security/Kill Chain/01 Recon/Enumeration/Samba.md",
+    "Pasted image 20260422070314.png",
+    "Pasted image 20260422070133.png",
+    "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/nmap.md",
+    "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/metasploit.md",
+    "Pasted image 20260422065451.png",
+    "Pasted image 20260422065420.png",
+    "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/nikto.md",
+    "Pasted image 20260422064917.png",
+    "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners",
+    "DiGiT/Cyber Security/Tool Uage/nmap/nmap.md",
+    "DiGiT/Cyber Security/Scripting/Perl Scripts/Basics.md",
+    "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration",
+    "DiGiT/Cyber Security/Scripting/Python/Basics.md",
+    "DiGiT/Cyber Security/Scripting/Python",
+    "DiGiT/Cyber Security/Tool Uage/nmap/nmap NSE.md",
+    "DiGiT/Cyber Security/Scripting/Perl Scripts",
     "DiGiT/Cyber Security/Cheat Sheets/Cheat sheet sites.md",
+    "DiGiT/Cyber Security/Kill Chain/01 Recon/Enumeration/Samba.md",
     "DiGiT/Cyber Security/Cheat Sheets/SNMP/snmp.md",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/Enumeration/SNMP.md",
     "DiGiT/Cyber Security/Cheat Sheets/SNMP",
@@ -194,10 +210,8 @@
     "DiGiT/Cyber Security/Cheat Sheets/hping3/hping3_cheatsheet_v1.0-ENG.pdf",
     "DiGiT/Cyber Security/Cheat Sheets/hping3",
     "DiGiT/Cyber Security/Cheat Sheets/nmap/Nmap-Cheat-Sheet.pdf",
-    "DiGiT/Cyber Security/Tool Uage/nmap/nmap.md",
     "DiGiT/Cyber Security/Cheat Sheets/nmap",
     "DiGiT/Cyber Security/Cheat Sheets",
-    "DiGiT/Cyber Security/Tool Uage/nmap",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/Enumeration/NetBIOS.md",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/Enumeration/HTTP.md",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/Enumeration/00 Enumeration tools Index.md",
@@ -209,27 +223,13 @@
     "Pasted image 20260421064714.png",
     "Pasted image 20260421064622.png",
     "Pasted image 20260421064421.png",
-    "Pasted image 20260421064023.png",
     "DiGiT/Cyber Security/Tool Uage/hping.md",
-    "DiGiT/Cyber Security/Kill Chain/01 Recon/Enumeration",
-    "Pasted image 20260421063040.png",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/Port Scanning/nmap.md",
-    "Pasted image 20260421062804.png",
-    "Pasted image 20260421062744.png",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/Host Discovery/nmap.md",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/Port Scanning/hPing.md",
-    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/Host Discovery",
     "DiGiT/Cyber Security/Tool Uage/Packet Capture/tcpTrack.md",
     "DiGiT/Cyber Security/Tool Uage/Packet Capture/Wireshark & tcpdump.md",
-    "DiGiT/Cyber Security/Tool Uage/Packet Capture",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/DNS Search Engines.md",
-    "DiGiT/Cyber Security/Tool Uage/BurpSuite/Burp Suite Basics.md",
-    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/Basic commands.md",
-    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/dnsrecon.md",
-    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/dnsenum.md",
-    "DiGiT/Cyber Security/Kill Chain/01 Recon/01.1 Passive Recon/Google/01.2 Google Dorking DB & Parameters.md",
-    "DiGiT/Cyber Security/Kill Chain/01 Recon/01.1 Passive Recon/Google/01.1 Google Dorking Basics.md",
-    "DiGiT/Cyber Security/Tool Uage/Metasploit/Metasploit Basics.md",
-    "DiGiT/Cyber Security/Tool Uage/Tools to investigate.md"
+    "DiGiT/Cyber Security/Tool Uage/BurpSuite/Burp Suite Basics.md"
   ]
 }
