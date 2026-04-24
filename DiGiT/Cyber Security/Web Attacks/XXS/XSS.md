@@ -41,7 +41,7 @@ When the user opens the file a backdoor can run.
 You can listen with NC for example:
 ![[Pasted image 20260424063252.png]]
 
-
+More XSS Scripts websites in the resource page.
 
 
 

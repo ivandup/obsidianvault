@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiGiT/Cyber Security/Web Attacks/XXS/Resources.md",
+                "file": "DiGiT/Cyber Security/Web Attacks/XXS/XSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "XSS"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "95d662ed623df2a6",
   "lastOpenFiles": [
-    "DiGiT/Cyber Security/Web Attacks/XXS/XSS.md",
     "DiGiT/Cyber Security/Web Attacks/XXS/Resources.md",
+    "DiGiT/Cyber Security/Web Attacks/XXS/XSS.md",
     "Pasted image 20260424063252.png",
     "Pasted image 20260424062206.png",
     "Pasted image 20260424061448.png",
