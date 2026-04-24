@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/metasploit.md",
+                "file": "DiGiT/Cyber Security/Web Attacks/XXS/Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "metasploit"
+              "title": "Resources"
             }
           }
         ]
@@ -185,10 +185,17 @@
   },
   "active": "95d662ed623df2a6",
   "lastOpenFiles": [
+    "DiGiT/Cyber Security/Web Attacks/XXS/XSS.md",
+    "DiGiT/Cyber Security/Web Attacks/XXS/Resources.md",
+    "Pasted image 20260424063252.png",
+    "Pasted image 20260424062206.png",
+    "Pasted image 20260424061448.png",
+    "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/metasploit.md",
+    "DiGiT/Cyber Security/Web Attacks/XXS",
+    "DiGiT/Cyber Security/Web Attacks",
     "Pasted image 20260422070314.png",
     "Pasted image 20260422070133.png",
     "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/nmap.md",
-    "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/metasploit.md",
     "Pasted image 20260422065451.png",
     "Pasted image 20260422065420.png",
     "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/nikto.md",
@@ -210,26 +217,19 @@
     "DiGiT/Cyber Security/Cheat Sheets/hping3/hping3_cheatsheet_v1.0-ENG.pdf",
     "DiGiT/Cyber Security/Cheat Sheets/hping3",
     "DiGiT/Cyber Security/Cheat Sheets/nmap/Nmap-Cheat-Sheet.pdf",
-    "DiGiT/Cyber Security/Cheat Sheets/nmap",
-    "DiGiT/Cyber Security/Cheat Sheets",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/Enumeration/NetBIOS.md",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/Enumeration/HTTP.md",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/Enumeration/00 Enumeration tools Index.md",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/Enumeration/dirBuster.md",
     "Pasted image 20260421070444.png",
     "Pasted image 20260421070150.png",
-    "Pasted image 20260421065733.png",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/Enumeration/Operating System Discovery.md",
-    "Pasted image 20260421064714.png",
-    "Pasted image 20260421064622.png",
-    "Pasted image 20260421064421.png",
     "DiGiT/Cyber Security/Tool Uage/hping.md",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/Port Scanning/nmap.md",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/Host Discovery/nmap.md",
     "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/Port Scanning/hPing.md",
     "DiGiT/Cyber Security/Tool Uage/Packet Capture/tcpTrack.md",
     "DiGiT/Cyber Security/Tool Uage/Packet Capture/Wireshark & tcpdump.md",
-    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/DNS Search Engines.md",
-    "DiGiT/Cyber Security/Tool Uage/BurpSuite/Burp Suite Basics.md"
+    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/DNS Search Engines.md"
   ]
 }
