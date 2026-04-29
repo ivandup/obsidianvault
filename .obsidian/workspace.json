@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks/Windows/amplia.md",
+                "file": "DiGiT/Cyber Security/Phishing/URL obfuscating - Masking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "amplia"
+              "title": "URL obfuscating - Masking"
             }
           }
         ]
@@ -185,19 +185,35 @@
   },
   "active": "62ea008deaf837d7",
   "lastOpenFiles": [
-    "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks/Windows/fgdump (Windows Credential dumping).md",
+    "DiGiT/Cyber Security/Phishing/Socialfish/SocialFish.md",
+    "DiGiT/Cyber Security/Phishing/URL obfuscating - Masking.md",
+    "DiGiT/Cyber Security/Phishing/Creating a public tunnel with localhost.run.md",
+    "DiGiT/Cyber Security/Tool Uage/Metasploit/msfVenom/Create your own payloads.md",
+    "Pasted image 20260429063352.png",
+    "Pasted image 20260429063237.png",
+    "Pasted image 20260429063149.png",
+    "DiGiT/Cyber Security/Tool Uage/Metasploit/exploit slmail.md",
+    "DiGiT/Cyber Security/Tool Uage/Public Exploits/Finding Exploits.md",
+    "DiGiT/Cyber Security/Tool Uage/Metasploit/msfVenom",
+    "DiGiT/Cyber Security/Tool Uage/Public Exploits/Webiste Links.md",
+    "Pasted image 20260429060706.png",
+    "Pasted image 20260429060625.png",
+    "Pasted image 20260429060456.png",
+    "Pasted image 20260429060438.png",
+    "Pasted image 20260429060425.png",
+    "Pasted image 20260429055245.png",
+    "Pasted image 20260429055219.png",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks/Windows/amplia.md",
+    "DiGiT/Cyber Security/Tool Uage/Public Exploits",
+    "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks/Windows/fgdump (Windows Credential dumping).md",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks/John the ripper.md",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks/Windows",
-    "Pasted image 20260428070856.png",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks/SSH/ncrack.md",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks/SSH",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks/ncrack.md",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks/Brute force SSH.md",
-    "Pasted image 20260428070516.png",
     "DiGiT/Cyber Security/Tool Uage/Metasploit/Using metasploit to get password hashes from Windows.md",
     "DiGiT/Cyber Security/Tool Uage/Metasploit/Metasploit Basics.md",
-    "Pasted image 20260428065813.png",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks/metasploit",
     "DiGiT/Cyber Security/Cheat Sheets/Cheat sheet sites.md",
     "DiGiT/Cyber Security/Cheat Sheets/ncat/ncat.md",
@@ -209,27 +225,11 @@
     "DiGiT/Cyber Security/Cheat Sheets/Password Attacks/Hydra.md",
     "DiGiT/Cyber Security/Cheat Sheets/Password Attacks/cewl.md",
     "DiGiT/Cyber Security/Cheat Sheets/Password Attacks",
-    "Pasted image 20260428063542.png",
-    "Pasted image 20260428063349.png",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Generating Wordlists/cewl/cewl.md",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks",
-    "Pasted image 20260428062818.png",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Generating Wordlists",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Generating Wordlists/crunch/crunch.md",
-    "DiGiT/Cyber Security/Tool Uage/Password Attacks/Generating Wordlists/cewl",
-    "DiGiT/Cyber Security/Phishing/Socialfish/SocialFish.md",
-    "DiGiT/Cyber Security/Tool Uage/Password Attacks/Generating Wordlists/crunch",
-    "Pasted image 20260424123914.png",
-    "Pasted image 20260424122725.png",
-    "Pasted image 20260424115448.png",
-    "Pasted image 20260424115139.png",
     "DiGiT/Cyber Security/Web Attacks/XXS/XSS.md",
-    "DiGiT/Cyber Security/Web Attacks/XXS/Resources.md",
-    "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/metasploit.md",
-    "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/nmap.md",
-    "DiGiT/Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/nikto.md",
-    "DiGiT/Cyber Security/Tool Uage/nmap/nmap.md",
-    "DiGiT/Cyber Security/Scripting/Perl Scripts/Basics.md",
-    "DiGiT/Cyber Security/Scripting/Python/Basics.md"
+    "DiGiT/Cyber Security/Web Attacks/XXS/Resources.md"
   ]
 }
