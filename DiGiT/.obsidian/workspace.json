@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Kill Chain/00 The Kill Chain/Cyber Kill Chain.md",
+                "file": "Cyber Security/Kill Chain/Privilege Escalation/02 Linux Files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyber Kill Chain"
+              "title": "02 Linux Files"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Tool Uage/Password attacks/Creating own wordlists/crunsh.md",
+                "file": "Cyber Security/Kill Chain/Privilege Escalation/02 Linux Files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "crunsh"
+              "title": "02 Linux Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,53 +194,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d80309b7fb02d11",
+  "active": "c0bb910f492111f2",
   "lastOpenFiles": [
-    "Cyber Security/Tool Uage/Reverse Shells/LFI, RFI & Dir traversal/Resources.md",
+    "Cyber Security/Kill Chain/00 The Kill Chain/Cyber Kill Chain.md",
+    "Red Team Profession Operations Reference.jpg",
+    "Cyber Kill Chain with tools.jpg",
+    "Cyber Security/Kill Chain/Privilege Escalation/02 Linux Files.md",
+    "Cyber Security/Kill Chain/Privilege Escalation/01 Linux Apps and Services.md",
+    "Cyber Security/Kill Chain/Privilege Escalation/00 Get OS details.md",
+    "Cyber Security/Basic Commands/List System info (cli).md",
+    "Cyber Security/Kill Chain/01 Recon/OSINT/TraceLabs OSINT/Link.md",
+    "Cyber Security/Kill Chain/Privilege Escalation",
+    "Cyber Security/Platforms/WhatApp/WhatsApp Beacon (OSINT Tracker).md",
+    "Cyber Security/Kill Chain/01 Recon/OSINT/TraceLabs OSINT",
+    "Cyber Security/Platforms/Microsoft365/M356Pwned.md",
+    "Cyber Security/Platforms/WhatApp",
+    "Cyber Security/AI Hacking Tools/00 Tools.md",
+    "Cyber Security/Platforms/Microsoft365",
+    "Cyber Security/AI Hacking Tools/CyberStrikeAI/Link & Usage.md",
+    "Cyber Security/Kill Chain/Post Exploitation/Buffer Overflow (To complete)/00 Basic Concepts.md",
+    "Cyber Security/AI Hacking Tools/CyberStrikeAI",
+    "Cyber Security/AI Hacking Tools",
+    "Cyber Security/Kill Chain/Post Exploitation/Avoid Anti-Virus/Anti-Virus Avoidance.md",
+    "Cyber Security/Kill Chain/Post Exploitation/Buffer Overflow (To complete)",
+    "Cyber Security/Tool Uage/Installing Tools.md",
+    "Cyber Security/Tool Uage/Tools to investigate.md",
+    "Cyber Security/Cheat Sheets/Check if files are malicious/References.md",
+    "Cyber Security/Cheat Sheets/Check if files are malicious",
+    "Cyber Security/Cheat Sheets/SQL Injection/SQLi Cheat Sheet.md",
+    "Cyber Security/Kill Chain/Post Exploitation/Avoid Anti-Virus",
+    "Pasted image 20260502071927.png",
+    "Cyber Security/Web Attacks/SQL Injections/SQL Injections.md",
+    "Cyber Security/Cheat Sheets/SQL Injection",
+    "Cyber Security/Kill Chain/Post Exploitation/Removing your tracks/Erasing your tracks.md",
+    "Pasted image 20260501224908.png",
+    "Cyber Security/Kill Chain/Post Exploitation/Lateral & vertical movement/Laternal Movement.md",
+    "Cyber Security/Tool Uage/Tunneling/SSH Tunneling.md",
+    "Pasted image 20260501221244.png",
+    "Cyber Security/Tool Uage/Reverse Shells/Web Shells.md",
+    "Cyber Security/Tool Uage/Reverse Shells/Python Reverse Shell.md",
+    "Cyber Security/Tool Uage/Reverse Shells/Bind & Reverse Shells (All).md",
     "Cyber Security/Tool Uage/Password attacks/Creating own wordlists/crunsh.md",
-    "Cyber Security/Tool Uage/Password attacks/Creating own wordlists",
-    "Cyber Security/Tool Uage/Password attacks",
+    "Cyber Security/Tool Uage/Reverse Shells/LFI, RFI & Dir traversal/Resources.md",
     "Cyber Security/Web Attacks/LFI, RFI & Direcory Traversal/RFI.md",
-    "Cyber Security/Tool Uage/Reverse Shells/LFI, RFI & Dir traversal",
     "Pasted image 20260426055341.png",
     "Pasted image 20260426055227.png",
-    "Cyber Security/Web Attacks/LFI, RFI & Direcory Traversal/Direcory Traversal/Directory traversal.md",
     "Pasted image 20260426055129.png",
     "Pasted image 20260426054902.png",
-    "Cyber Security/Web Attacks/Web Shells.md",
-    "Pasted image 20260426052530.png",
-    "Cyber Security/Web Attacks/LFI, RFI & Direcory Traversal/LFI.md",
-    "Cyber Security/Web Attacks/LFI, RFI & Direcory Traversal/Direcory Traversal",
-    "Cyber Security/Web Attacks/SQL Injections/SQL Injections.md",
-    "Cyber Security/Web Attacks/LFI, RFI & Direcory Traversal",
-    "Pasted image 20260425060419.png",
-    "Cyber Security/Platforms/Facebook/Hack Facebook using beef.md",
-    "Cyber Security/Web Attacks/SQL Injections",
-    "Cyber Security/Kill Chain/01 Recon/01.1 Passive Recon/Search Engines.md",
-    "Cyber Security/Platforms/Facebook",
-    "Cyber Security/Platforms",
-    "Pasted image 20260425050126.png",
-    "Cyber Security/Kill Chain/01 Recon/OSINT/Flowsint/Flowsint.md",
-    "Cyber Security/Basic Commands/Find files & getting file info.md",
-    "Cyber Security/Kill Chain/01 Recon/OSINT/Flowsint",
-    "Cyber Security/Kill Chain/01 Recon/OSINT",
-    "Cyber Security/Tool Uage/Metasploit/Metasploit Basics.md",
-    "Cyber Security/Scripting/Python/Basics.md",
-    "Cyber Security/Scripting/Perl Scripts/Basics.md",
-    "Cyber Security/Phishing/Socialfish/SocialFish.md",
-    "Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/nmap.md",
-    "Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/nikto.md",
-    "Cyber Security/Kill Chain/02 Scanning & Enumeration/Vulnerability Scanners/metasploit.md",
-    "Cyber Security/Kill Chain/01 Recon/Enumeration/Samba.md",
-    "Cyber Security/Kill Chain/01 Recon/Enumeration/SNMP.md",
-    "Cyber Security/Kill Chain/01 Recon/Enumeration/Operating System Discovery.md",
-    "Cyber Security/Kill Chain/01 Recon/Enumeration/HTTP.md",
-    "Cyber Security/Kill Chain/01 Recon/Enumeration/NetBIOS.md",
-    "Cyber Security/Kill Chain/01 Recon/Enumeration/dirBuster.md",
-    "Cyber Security/Kill Chain/01 Recon/Enumeration/00 Enumeration tools Index.md",
-    "Cyber Security/Web Attacks/XXS/XSS.md",
-    "Pasted image 20260419050136.png",
-    "Pasted image 20260419044435.png",
-    "Pasted image 20260419041829.png"
+    "Pasted image 20260426052530.png"
   ]
 }

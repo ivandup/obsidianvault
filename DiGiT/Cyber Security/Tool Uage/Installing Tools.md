@@ -9,3 +9,8 @@ sudo update-alternatives --config nc
 sudo apt install webshells
 ```
 
+# pyinstaller
+Converting python scripts into binaries
+```
+apt-get install pyinstaller
+```
