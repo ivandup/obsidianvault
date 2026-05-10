@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Kill Chain/Privilege Escalation/02 Linux Files.md",
+                "file": "Cyber Security/Basic Commands/Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Linux Files"
+              "title": "Networking"
             }
           },
           {
@@ -196,10 +196,24 @@
   },
   "active": "c0bb910f492111f2",
   "lastOpenFiles": [
+    "Cyber Security/Dark Web/Dark Web Platforms/5 Dark Web Platform Hackers don't want exposed/Part 4.md",
+    "Cyber Security/Basic Commands/Networking.md",
+    "Pasted image 20260503065638.png",
+    "Pasted image 20260503065620.png",
+    "Pasted image 20260503065614.png",
+    "Pasted image 20260503065607.png",
+    "Pasted image 20260503065600.png",
+    "Pasted image 20260503065554.png",
+    "Cyber Security/RoadMaps/Red Team/Red Team Road Map.md",
+    "Cyber Security/Dark Web/Dark Web Platforms/5 Dark Web Platform Hackers don't want exposed",
+    "Cyber Security/Dark Web/Dark Web Platforms",
+    "Cyber Security/Dark Web",
+    "Cyber Security/Kill Chain/Privilege Escalation/02 Linux Files.md",
+    "Cyber Security/RoadMaps/Red Team",
+    "Cyber Security/RoadMaps",
     "Cyber Security/Kill Chain/00 The Kill Chain/Cyber Kill Chain.md",
     "Red Team Profession Operations Reference.jpg",
     "Cyber Kill Chain with tools.jpg",
-    "Cyber Security/Kill Chain/Privilege Escalation/02 Linux Files.md",
     "Cyber Security/Kill Chain/Privilege Escalation/01 Linux Apps and Services.md",
     "Cyber Security/Kill Chain/Privilege Escalation/00 Get OS details.md",
     "Cyber Security/Basic Commands/List System info (cli).md",
@@ -214,33 +228,19 @@
     "Cyber Security/AI Hacking Tools/CyberStrikeAI/Link & Usage.md",
     "Cyber Security/Kill Chain/Post Exploitation/Buffer Overflow (To complete)/00 Basic Concepts.md",
     "Cyber Security/AI Hacking Tools/CyberStrikeAI",
-    "Cyber Security/AI Hacking Tools",
     "Cyber Security/Kill Chain/Post Exploitation/Avoid Anti-Virus/Anti-Virus Avoidance.md",
-    "Cyber Security/Kill Chain/Post Exploitation/Buffer Overflow (To complete)",
     "Cyber Security/Tool Uage/Installing Tools.md",
     "Cyber Security/Tool Uage/Tools to investigate.md",
     "Cyber Security/Cheat Sheets/Check if files are malicious/References.md",
-    "Cyber Security/Cheat Sheets/Check if files are malicious",
     "Cyber Security/Cheat Sheets/SQL Injection/SQLi Cheat Sheet.md",
-    "Cyber Security/Kill Chain/Post Exploitation/Avoid Anti-Virus",
     "Pasted image 20260502071927.png",
     "Cyber Security/Web Attacks/SQL Injections/SQL Injections.md",
-    "Cyber Security/Cheat Sheets/SQL Injection",
     "Cyber Security/Kill Chain/Post Exploitation/Removing your tracks/Erasing your tracks.md",
     "Pasted image 20260501224908.png",
     "Cyber Security/Kill Chain/Post Exploitation/Lateral & vertical movement/Laternal Movement.md",
     "Cyber Security/Tool Uage/Tunneling/SSH Tunneling.md",
-    "Pasted image 20260501221244.png",
     "Cyber Security/Tool Uage/Reverse Shells/Web Shells.md",
     "Cyber Security/Tool Uage/Reverse Shells/Python Reverse Shell.md",
-    "Cyber Security/Tool Uage/Reverse Shells/Bind & Reverse Shells (All).md",
-    "Cyber Security/Tool Uage/Password attacks/Creating own wordlists/crunsh.md",
-    "Cyber Security/Tool Uage/Reverse Shells/LFI, RFI & Dir traversal/Resources.md",
-    "Cyber Security/Web Attacks/LFI, RFI & Direcory Traversal/RFI.md",
-    "Pasted image 20260426055341.png",
-    "Pasted image 20260426055227.png",
-    "Pasted image 20260426055129.png",
-    "Pasted image 20260426054902.png",
-    "Pasted image 20260426052530.png"
+    "Cyber Security/Tool Uage/Reverse Shells/Bind & Reverse Shells (All).md"
   ]
 }
