@@ -25,7 +25,6 @@ nmap -sn -PA [IP]
 
 nmap -sn -PO [IP]
 # -PO: IP Protocol Ping scan
-
 ```
 
 ![[Pasted image 20260421062021.png]]

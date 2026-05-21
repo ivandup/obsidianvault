@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Basic Commands/Networking.md",
+                "file": "Cyber Security/Kill Chain/01 Recon/02 Active Recon/Port Scanning/nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking"
+              "title": "nmap"
             }
           },
           {
@@ -197,6 +197,10 @@
   "active": "c0bb910f492111f2",
   "lastOpenFiles": [
     "Cyber Security/Dark Web/Dark Web Platforms/5 Dark Web Platform Hackers don't want exposed/Part 4.md",
+    "Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/DNS Search Engines.md",
+    "Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/Basic commands.md",
+    "Cyber Security/Kill Chain/01 Recon/02 Active Recon/Host Discovery/nmap.md",
+    "Cyber Security/Cheat Sheets/nmap/Nmap-Cheat-Sheet.pdf",
     "Cyber Security/Basic Commands/Networking.md",
     "Pasted image 20260503065638.png",
     "Pasted image 20260503065620.png",
@@ -227,7 +231,6 @@
     "Cyber Security/Platforms/Microsoft365",
     "Cyber Security/AI Hacking Tools/CyberStrikeAI/Link & Usage.md",
     "Cyber Security/Kill Chain/Post Exploitation/Buffer Overflow (To complete)/00 Basic Concepts.md",
-    "Cyber Security/AI Hacking Tools/CyberStrikeAI",
     "Cyber Security/Kill Chain/Post Exploitation/Avoid Anti-Virus/Anti-Virus Avoidance.md",
     "Cyber Security/Tool Uage/Installing Tools.md",
     "Cyber Security/Tool Uage/Tools to investigate.md",
@@ -238,9 +241,6 @@
     "Cyber Security/Kill Chain/Post Exploitation/Removing your tracks/Erasing your tracks.md",
     "Pasted image 20260501224908.png",
     "Cyber Security/Kill Chain/Post Exploitation/Lateral & vertical movement/Laternal Movement.md",
-    "Cyber Security/Tool Uage/Tunneling/SSH Tunneling.md",
-    "Cyber Security/Tool Uage/Reverse Shells/Web Shells.md",
-    "Cyber Security/Tool Uage/Reverse Shells/Python Reverse Shell.md",
-    "Cyber Security/Tool Uage/Reverse Shells/Bind & Reverse Shells (All).md"
+    "Cyber Security/Tool Uage/Tunneling/SSH Tunneling.md"
   ]
 }
