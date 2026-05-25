@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiGiT/How To's/e2Guardian/Install.md",
+                "file": "DiGiT/Cyber Security/Kill Chain/Social Engineering/The Social Engineering Attack Chain..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install"
+              "title": "The Social Engineering Attack Chain."
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "62ea008deaf837d7",
   "lastOpenFiles": [
-    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/Port Scanning/nmap.md",
     "DiGiT/How To's/e2Guardian/Install.md",
+    "DiGiT/Cyber Security/Kill Chain/Social Engineering/The Social Engineering Attack Chain..md",
+    "DiGiT/Cyber Security/Kill Chain/Social Engineering",
+    "DiGiT/Cyber Security/Kill Chain/01 Recon/02 Active Recon/Port Scanning/nmap.md",
     "DiGiT/How To's/e2Guardian",
     "DiGiT/How To's",
     "DiGiT/Cyber Security/Cheat Sheets/nmap/Nmap-Cheat-Sheet.pdf",
@@ -225,11 +227,9 @@
     "DiGiT/Cyber Security/Cheat Sheets/Cheat sheet sites.md",
     "DiGiT/Cyber Security/Cheat Sheets/ncat/ncat.md",
     "DiGiT/Cyber Security/Cheat Sheets/HTTP/HTTP Error Codes.md",
-    "DiGiT/Cyber Security/Cheat Sheets/ncat",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks/Hydra.md",
     "DiGiT/Cyber Security/Tool Uage/Password Attacks/Bruteforce Attacks/Medusa.md",
     "DiGiT/Cyber Security/Cheat Sheets/Password Attacks/Hydra.md",
-    "DiGiT/Cyber Security/Cheat Sheets/Password Attacks/cewl.md",
-    "DiGiT/Cyber Security/Tool Uage/Password Attacks/Generating Wordlists/cewl/cewl.md"
+    "DiGiT/Cyber Security/Cheat Sheets/Password Attacks/cewl.md"
   ]
 }
