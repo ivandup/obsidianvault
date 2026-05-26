@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Protocol Hacking/SSH/Hacking the SSH Protocol (to do).md",
+                "file": "Cyber Security/Priviledge Escaltion/Breakout shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hacking the SSH Protocol (to do)"
+              "title": "Breakout shell"
             }
           },
           {
@@ -196,10 +196,13 @@
   },
   "active": "c0bb910f492111f2",
   "lastOpenFiles": [
+    "Cyber Security/Cheat Sheets/Password Attacks/Websites.md",
+    "Cyber Security/Priviledge Escaltion/Breakout shell.md",
+    "Cyber Security/Priviledge Escaltion",
+    "Cyber Security/Protocol Hacking/SSH/Hacking the SSH Protocol (to do).md",
     "Cyber Security/Cheat Sheets/Password Attacks/John the Ripper.md",
     "Cyber Security/Cheat Sheets/Password Attacks/Cracking SSH Private Keys.md",
     "Cyber Security/Cheat Sheets/Password Attacks/Hydra.md",
-    "Cyber Security/Protocol Hacking/SSH/Hacking the SSH Protocol (to do).md",
     "Cyber Security/Tool Uage/Tunneling/SSH Tunneling.md",
     "Cyber Security/Protocol Hacking/SSH",
     "Cyber Security/Protocol Hacking",
@@ -233,13 +236,10 @@
     "Cyber Security/Kill Chain/01 Recon/OSINT/TraceLabs OSINT/Link.md",
     "Cyber Security/Kill Chain/Privilege Escalation",
     "Cyber Security/Platforms/WhatApp/WhatsApp Beacon (OSINT Tracker).md",
-    "Cyber Security/Kill Chain/01 Recon/OSINT/TraceLabs OSINT",
     "Cyber Security/Platforms/Microsoft365/M356Pwned.md",
     "Cyber Security/AI Hacking Tools/00 Tools.md",
     "Cyber Security/AI Hacking Tools/CyberStrikeAI/Link & Usage.md",
     "Cyber Security/Kill Chain/Post Exploitation/Buffer Overflow (To complete)/00 Basic Concepts.md",
-    "Cyber Security/Kill Chain/Post Exploitation/Avoid Anti-Virus/Anti-Virus Avoidance.md",
-    "Cyber Security/Tool Uage/Installing Tools.md",
     "Pasted image 20260502071927.png",
     "Pasted image 20260501224908.png"
   ]
