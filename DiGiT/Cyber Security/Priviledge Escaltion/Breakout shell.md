@@ -65,6 +65,8 @@ su jerry
 (root) NOPASSWD: /usr/bin/git
 ```
 
+Go to GTFOBins.hithub.io and search for the apps listed and see if you can get a possible root shell using the app. In this example we will use git
+
 This means the user can run git as root
 
  ```
