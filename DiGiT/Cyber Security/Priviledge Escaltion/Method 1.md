@@ -1,3 +1,5 @@
+This methos shows you how to do privilege escalation with tools such as VIM & GIT
+
 Try privilege escalation by means of breakout Run: 
 ```
 cd

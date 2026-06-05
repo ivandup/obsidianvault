@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Priviledge Escaltion/Breakout shell.md",
+                "file": "Cyber Security/Tool Uage/Hydra/Cracking WebApp Passwords.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Breakout shell"
+              "title": "Cracking WebApp Passwords"
             }
           },
           {
@@ -196,8 +196,21 @@
   },
   "active": "c0bb910f492111f2",
   "lastOpenFiles": [
+    "Cyber Security/Priviledge Escaltion/Method 1.md",
+    "Cyber Security/Priviledge Escaltion/Method 2.md",
+    "Cyber Security/Tool Uage/SearchSploit/Using SearchSpolit.md",
+    "Cyber Security/Tool Uage/SMB/General commands/General commands.md",
+    "Cyber Security/Tool Uage/SearchSploit",
+    "Cyber Security/Tool Uage/Hydra/SSH.md",
+    "Cyber Security/Tool Uage/SMB/General commands",
+    "Cyber Security/Tool Uage/SMB",
+    "Cyber Security/Tool Uage/Hydra/Cracking WebApp Passwords.md",
+    "Cyber Security/Tool Uage/Reverse Shells/Python Reverse Shell.md",
+    "Cyber Security/Tool Uage/Hydra",
+    "Cyber Security/Tool Uage/Reverse Shells/Perl Reverse Shell.md",
+    "Cyber Security/Tool Uage/Reverse Shells/Bash Reverse Shell.md",
+    "Cyber Security/Tool Uage/Reverse Shells/Web Shells.md",
     "Cyber Security/Protocol Hacking/SSH/Hacking the SSH Protocol (to do).md",
-    "Cyber Security/Priviledge Escaltion/Breakout shell.md",
     "Cyber Security/Cheat Sheets/Password Attacks/Websites.md",
     "Cyber Security/Priviledge Escaltion",
     "Cyber Security/Cheat Sheets/Password Attacks/John the Ripper.md",
@@ -223,23 +236,10 @@
     "Cyber Security/RoadMaps/Red Team/Red Team Road Map.md",
     "Cyber Security/Dark Web/Dark Web Platforms/5 Dark Web Platform Hackers don't want exposed",
     "Cyber Security/Dark Web/Dark Web Platforms",
-    "Cyber Security/Dark Web",
     "Cyber Security/Kill Chain/Privilege Escalation/02 Linux Files.md",
-    "Cyber Security/RoadMaps/Red Team",
-    "Cyber Security/RoadMaps",
     "Cyber Security/Kill Chain/00 The Kill Chain/Cyber Kill Chain.md",
     "Red Team Profession Operations Reference.jpg",
     "Cyber Kill Chain with tools.jpg",
-    "Cyber Security/Kill Chain/Privilege Escalation/01 Linux Apps and Services.md",
-    "Cyber Security/Kill Chain/Privilege Escalation/00 Get OS details.md",
-    "Cyber Security/Basic Commands/List System info (cli).md",
-    "Cyber Security/Kill Chain/01 Recon/OSINT/TraceLabs OSINT/Link.md",
-    "Cyber Security/Kill Chain/Privilege Escalation",
-    "Cyber Security/Platforms/WhatApp/WhatsApp Beacon (OSINT Tracker).md",
-    "Cyber Security/Platforms/Microsoft365/M356Pwned.md",
-    "Cyber Security/AI Hacking Tools/00 Tools.md",
-    "Cyber Security/AI Hacking Tools/CyberStrikeAI/Link & Usage.md",
-    "Cyber Security/Kill Chain/Post Exploitation/Buffer Overflow (To complete)/00 Basic Concepts.md",
     "Pasted image 20260502071927.png",
     "Pasted image 20260501224908.png"
   ]
