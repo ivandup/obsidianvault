@@ -1,4 +1,4 @@
-Enumerate users:
+http://10.50.10.70/wordpress Enumerate users:
 ```
 wpscan --url http://10.50.10.52/secret/ -e u
 ```

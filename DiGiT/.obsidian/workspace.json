@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Tool Uage/Hydra/Cracking WebApp Passwords.md",
+                "file": "Cyber Security/Platform hacking/General websites/General things to check.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cracking WebApp Passwords"
+              "title": "General things to check"
             }
           },
           {
@@ -34,8 +34,23 @@
               "icon": "lucide-file",
               "title": "02 Linux Files"
             }
+          },
+          {
+            "id": "e70068af5380c96e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Tool Uage/SQLmap/Usage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Usage"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,50 +209,50 @@
       "bases:Create new base": false
     }
   },
-  "active": "c0bb910f492111f2",
+  "active": "e70068af5380c96e",
   "lastOpenFiles": [
-    "Cyber Security/Priviledge Escaltion/Method 1.md",
-    "Cyber Security/Priviledge Escaltion/Method 2.md",
-    "Cyber Security/Tool Uage/SearchSploit/Using SearchSpolit.md",
-    "Cyber Security/Tool Uage/SMB/General commands/General commands.md",
-    "Cyber Security/Tool Uage/SearchSploit",
-    "Cyber Security/Tool Uage/Hydra/SSH.md",
-    "Cyber Security/Tool Uage/SMB/General commands",
-    "Cyber Security/Tool Uage/SMB",
-    "Cyber Security/Tool Uage/Hydra/Cracking WebApp Passwords.md",
+    "Cyber Security/Tool Uage/Directory Listing/GoBuster/GoBuster Usage.md",
+    "Cyber Security/Tool Uage/SQLmap/Usage.md",
+    "Cyber Security/Tool Uage/SQLmap",
+    "Cyber Security/Platform hacking/Drupal/Drupal Hacking.md",
+    "Cyber Security/Tool Uage/Directory Listing/GoBuster",
+    "Cyber Security/Tool Uage/Directory Listing",
+    "Cyber Security/Platform hacking/Drupal/Method 1.md",
+    "Cyber Security/Platform hacking/General websites/General things to check.md",
+    "Cyber Security/Tool Uage/nmap/nmap.md",
+    "Cyber Security/Platform hacking/Untitled",
     "Cyber Security/Tool Uage/Reverse Shells/Python Reverse Shell.md",
-    "Cyber Security/Tool Uage/Hydra",
-    "Cyber Security/Tool Uage/Reverse Shells/Perl Reverse Shell.md",
+    "Cyber Security/Priviledge Escaltion/Method 4 (MySQL UDF).md",
+    "Cyber Security/Priviledge Escaltion/Method 3 (MySQL).md",
+    "Cyber Security/Priviledge Escaltion/Basic Checks.md",
+    "Cyber Security/Platform hacking/Wordpress/Password cracking.md",
+    "Cyber Security/Tool Uage/John the Ripper/Cracking HASHed passwords.md",
+    "Cyber Security/Tool Uage/Hydra/Cracking WebApp Passwords.md",
+    "Cyber Security/Tool Uage/John the Ripper",
+    "Cyber Security/Priviledge Escaltion/LinPEAS.md",
+    "Cyber Security/Tool Uage/fuff.md",
+    "Cyber Security/Platform hacking/Wordpress/Basics.md",
+    "Cyber Security/Tool Uage/Netcat & ncat/nc & ncat.md",
+    "Cyber Security/Platform hacking/Wordpress",
+    "Cyber Security/Tool Uage/SearchSploit/Using SearchSpolit.md",
+    "Cyber Security/Tool Uage/wpscan.md",
+    "Cyber Security/Priviledge Escaltion/Resources.md",
+    "Cyber Security/Tool Uage/Hydra/SSH.md",
+    "Cyber Security/-=OCP Weekly List=-.md",
+    "Cyber Security/Tool Uage/enum4linux/Cheatsheet.md",
+    "Cyber Security/Tool Uage/enum4linux",
+    "Cyber Security/Tool Uage/Reverse Shells/Bind & Reverse Shells (All).md",
     "Cyber Security/Tool Uage/Reverse Shells/Bash Reverse Shell.md",
-    "Cyber Security/Tool Uage/Reverse Shells/Web Shells.md",
-    "Cyber Security/Protocol Hacking/SSH/Hacking the SSH Protocol (to do).md",
-    "Cyber Security/Cheat Sheets/Password Attacks/Websites.md",
-    "Cyber Security/Priviledge Escaltion",
-    "Cyber Security/Cheat Sheets/Password Attacks/John the Ripper.md",
-    "Cyber Security/Cheat Sheets/Password Attacks/Cracking SSH Private Keys.md",
-    "Cyber Security/Cheat Sheets/Password Attacks/Hydra.md",
-    "Cyber Security/Tool Uage/Tunneling/SSH Tunneling.md",
-    "Cyber Security/Protocol Hacking/SSH",
-    "Cyber Security/Protocol Hacking",
-    "Cyber Security/Basic Commands/SSH Command.md",
-    "Cyber Security/Kill Chain/01 Recon/02 Active Recon/Port Scanning/nmap.md",
-    "Cyber Security/Dark Web/Dark Web Platforms/5 Dark Web Platform Hackers don't want exposed/Part 4.md",
-    "Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/DNS Search Engines.md",
-    "Cyber Security/Kill Chain/01 Recon/02 Active Recon/DNS Enumeration/Basic commands.md",
-    "Cyber Security/Kill Chain/01 Recon/02 Active Recon/Host Discovery/nmap.md",
-    "Cyber Security/Cheat Sheets/nmap/Nmap-Cheat-Sheet.pdf",
-    "Cyber Security/Basic Commands/Networking.md",
+    "Cyber Security/Services Hacking/Web Server/Basics.md",
+    "Cyber Security/Services Hacking/Web Server",
+    "Cyber Security/Services Hacking/Samba",
+    "Cyber Security/Services Hacking/MySQL",
     "Pasted image 20260503065638.png",
     "Pasted image 20260503065620.png",
     "Pasted image 20260503065614.png",
     "Pasted image 20260503065607.png",
     "Pasted image 20260503065600.png",
     "Pasted image 20260503065554.png",
-    "Cyber Security/RoadMaps/Red Team/Red Team Road Map.md",
-    "Cyber Security/Dark Web/Dark Web Platforms/5 Dark Web Platform Hackers don't want exposed",
-    "Cyber Security/Dark Web/Dark Web Platforms",
-    "Cyber Security/Kill Chain/Privilege Escalation/02 Linux Files.md",
-    "Cyber Security/Kill Chain/00 The Kill Chain/Cyber Kill Chain.md",
     "Red Team Profession Operations Reference.jpg",
     "Cyber Kill Chain with tools.jpg",
     "Pasted image 20260502071927.png",

