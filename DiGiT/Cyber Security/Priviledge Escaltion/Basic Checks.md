@@ -69,6 +69,15 @@ sudo -u root sudo bash -p
 # OR
 sudo -u root /usr/bin/sudo su root
 ```
+
+# Check if port knocking is enabled
+Port knocking is where to SSH port is closed untill such a time you knock on the port with spesific sequence to open it:
+```
+cat /etc/knockd.conf
+```
+
+For more details, check out "Tool usage > SSH > SSH Port Filtered (Port Knocking)"
+
 # LinPEAS
 Try running LinPEAS
 
