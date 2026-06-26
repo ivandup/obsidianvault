@@ -36,3 +36,5 @@ Run and save output to file and show on screen at the same time:
 ./linpeas.sh | tee linpeas.txt
 ```
 
+# Exploits
+Have a look at any CVE's that it might detect and try each one.
