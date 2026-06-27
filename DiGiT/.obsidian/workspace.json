@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Kill Chain/Privilege Escalation/chkrootkit vulnrability.md",
+                "file": "Cyber Security/Tool Uage/Password Attacks-Cracking/Bruteforce Attacks/Hydra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chkrootkit vulnrability"
+              "title": "Hydra"
             }
           }
         ],
@@ -211,15 +211,28 @@
   },
   "active": "e70068af5380c96e",
   "lastOpenFiles": [
-    "Cyber Security/Priviledge Escaltion/Method 6 (Escape Restricted Shell).md",
+    "Cyber Security/Tool Uage/SSH/Public & Private Keys.md",
+    "Cyber Security/Services Hacking/FTP/General.md",
+    "Cyber Security/Services Hacking/FTP/FTP to SSH.md",
+    "Cyber Security/Services Hacking/FTP",
+    "Cyber Security/Priviledge Escaltion/cat Command.md",
+    "Cyber Security/Priviledge Escaltion/LinPEAS/LinPEAS Basics.md",
+    "Cyber Security/Priviledge Escaltion/LinPEAS/Lateral Movement.md",
+    "Cyber Security/Priviledge Escaltion/LinPEAS",
+    "Cyber Security/Basic Commands/MySQL.md",
+    "Cyber Security/Priviledge Escaltion/Basic Checks.md",
+    "Cyber Security/Cheat Sheets/Password Attacks/Hydra.md",
+    "Cyber Security/Cheat Sheets/Password Attacks/John the Ripper.md",
+    "Cyber Security/Tool Uage/Password Attacks-Cracking/Bruteforce Attacks/Hydra.md",
+    "Pasted image 20260404075940.png",
     "Cyber Security/Kill Chain/Privilege Escalation/chkrootkit vulnrability.md",
+    "Cyber Security/Priviledge Escaltion/Method 6 (Escape Restricted Shell).md",
     "Cyber Security/Tool Uage/Password Attacks-Cracking/passwd & shadow/Cracking passwd & shadow files.md",
     "Cyber Security/Tool Uage/Password Attacks-Cracking/Bruteforce Attacks/Online Resources.md",
     "Cyber Security/Tool Uage/Password Attacks-Cracking/passwd & shadow",
     "Cyber Security/Tool Uage/Password Attacks-Cracking/Bruteforce Attacks/ncrack.md",
     "Cyber Security/Tool Uage/Password Attacks-Cracking/Bruteforce Attacks/Medusa.md",
     "Cyber Security/Tool Uage/Password Attacks-Cracking/Bruteforce Attacks/John the ripper.md",
-    "Cyber Security/Tool Uage/Password Attacks-Cracking/Bruteforce Attacks/Hydra.md",
     "Cyber Security/Tool Uage/Password Attacks-Cracking/Bruteforce Attacks/Brute force SSH.md",
     "Cyber Security/Tool Uage/Password Attacks-Cracking/Bruteforce Attacks/SSH/ncrack.md",
     "Cyber Security/Priviledge Escaltion/Resources.md",
@@ -228,25 +241,13 @@
     "Cyber Security/Kill Chain/01 Recon/01.2 Enumeration/HTTP.md",
     "Cyber Security/Kill Chain/01 Recon/01.2 Enumeration/dirBuster.md",
     "Cyber Security/Kill Chain/01 Recon/01.2 Enumeration/00 Enumeration tools Index.md",
-    "Cyber Security/Kill Chain/01 Recon/01.1 Scanning & Enumeration/01.1.2 Active Recon/Vulnerability Scanners/metasploit.md",
-    "Cyber Security/Platform hacking/Drupal/Drupal Hacking.md",
-    "Cyber Security/Platform hacking/Drupal/Method 1.md",
-    "Cyber Security/Tool Uage/SQLmap/Usage.md",
-    "Cyber Security/Kill Chain/Privilege Escalation/01 Linux Apps and Services.md",
-    "Cyber Security/Kill Chain/03 Delivery/Web Attacks/Reverser Shells/PHP Reverse shell.md",
-    "Cyber Security/Kill Chain/03 Delivery/Web Attacks/Web Shells/Web Shells.md",
     "Cyber Security/Kill Chain/03 Delivery/Web Attacks/Reverser Shells",
-    "Cyber Security/Kill Chain/03 Delivery/Web Attacks/Web Shells/PHP Web Shell.md",
     "Cyber Security/Kill Chain/03 Delivery/Web Attacks/Web Shells",
-    "Cyber Security/Kill Chain/04 Exploitation/-= Exploit Errors =-.md",
-    "Cyber Security/Priviledge Escaltion/Basic Checks.md",
     "Cyber Security/Tool Uage/SQLmap",
     "Cyber Security/Tool Uage/Directory Listing/GoBuster",
     "Cyber Security/Tool Uage/Directory Listing",
     "Cyber Security/Platform hacking/Untitled",
     "Cyber Security/Tool Uage/John the Ripper",
-    "Cyber Security/Platform hacking/Wordpress",
-    "Cyber Security/Tool Uage/enum4linux",
     "Pasted image 20260503065638.png",
     "Pasted image 20260503065620.png",
     "Pasted image 20260503065614.png",
@@ -255,7 +256,6 @@
     "Pasted image 20260503065554.png",
     "Red Team Profession Operations Reference.jpg",
     "Cyber Kill Chain with tools.jpg",
-    "Pasted image 20260502071927.png",
-    "Pasted image 20260501224908.png"
+    "Pasted image 20260502071927.png"
   ]
 }
