@@ -33,6 +33,8 @@ cat /etc*-release
 # Sudo, SUID's, GUIDs
 ```
 sudo -l
+# OR
+sudo -ll
 ls -lsaht /etc/sudoers
 find / -perm -u=s -type f 2>/dev/null
 find / -perm -g=s -type f 2>/dev/null

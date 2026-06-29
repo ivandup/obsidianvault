@@ -62,3 +62,8 @@ Now SSH to the box using your private key:
 ```
 ssh -i id_rsa matt@10.50.10.73
 ```
+
+Sometimes, with older box that uses outdated SSH keys, you might need to specify some additional parameters like with the Vulnix Server:
+```
+ssh -o 'PubkeyAcceptedKeyTypes +ssh-rsa' -i /homr/vulnix.ssh.rsa vulnix@<targetIP>
+```
