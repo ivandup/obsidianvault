@@ -54,3 +54,6 @@ gobuster dir -u http://10.50.10.68 -w /usr/share/wordlists/dirbuster/directory-l
 # -x Options:
 .php,.html,.txt,.bak
 ```
+
+# Similar Images
+If a website has similar images where it might be ususpiciousm try downloading them and check if there are any file diferences between them. If there are, you might want to look into stegnogorophy.

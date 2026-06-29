@@ -26,7 +26,7 @@ Example output when running:
 ![[Pasted image 20260428063542.png]]
 
 # Password length
-If you know what the password policy is, e.g.: min 5 characters, you can use the rockyou woordlits and only run with passwords longer than 5 characteers:
+If you know what the password policy is, e.g.: min 5 characters, you can use the rockyou wordlist and only run with passwords longer than 5 characters:
 ```
 awk 'length($0) > 5' rockyou.txt > rockyou_gt5.txt
 ```

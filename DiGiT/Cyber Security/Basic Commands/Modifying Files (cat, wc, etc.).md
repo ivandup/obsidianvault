@@ -33,3 +33,9 @@ for i in `cat first-names.txt | tr'[:upper]' '[:lower]' | head -n 20 | dos2unix 
 `````
 for i in `cat first-names.txt | tr'[:upper]' '[:lower]' | head -n 20 | dos2unix | awk '$0="www."$s0".com"'`; do host $1;done | awk '/has address/ { print $4 }'
 `````
+
+# Unique words
+If a files has multiple fields which might be duplicates, you can remove it by runnung:
+```
+cat <filesName>.txt | uniq > fileNameNew.txt
+```
