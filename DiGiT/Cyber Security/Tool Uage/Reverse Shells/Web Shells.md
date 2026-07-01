@@ -44,3 +44,8 @@ Try to rename the file
 cp rvs.php rvs.php.jpg
 ```
 
+# ASPX Reverse Shell
+You can try aspx reverse shell:
+```
+/usr/share/webshells/aspx/cmdasp.aspx
+```

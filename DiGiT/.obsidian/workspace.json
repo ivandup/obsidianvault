@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Tool Uage/SSH/Public & Private Keys.md",
+                "file": "Cyber Security/Cheat Sheets/Cheat sheet sites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Public & Private Keys"
+              "title": "Cheat sheet sites"
             }
           }
         ]
@@ -182,6 +182,17 @@
   },
   "active": "6cf78b9cef6b1c09",
   "lastOpenFiles": [
+    "Cyber Security/Tool Uage/Reverse Shells/-= Cheat Cheet=-.md",
+    "Cyber Security/Tool Uage/Reverse Shells/Windows/Reverse shell generator.md",
+    "Cyber Security/Tool Uage/Reverse Shells/Windows/Powershell Reverse shell.md",
+    "Cyber Security/Tool Uage/Reverse Shells/Windows/aspx Reverse Shells.md",
+    "Cyber Security/Tool Uage/Reverse Shells/Windows/Powershell Reverse Shell generator.md",
+    "Cyber Security/Tool Uage/Reverse Shells/Web Shells.md",
+    "Cyber Security/Tool Uage/Reverse Shells/aspx Reverse Shells 1.md",
+    "Cyber Security/Tool Uage/Reverse Shells/Windows",
+    "Cyber Security/Platform hacking/Windows (And AD)/Basics.md",
+    "Cyber Security/Tool Uage/SSH/Public & Private Keys.md",
+    "Cyber Security/Platform hacking/Windows (And AD)",
     "Cyber Security/Tool Uage/Wireshark/Follow streams.md",
     "Cyber Security/Tool Uage/Wireshark",
     "Cyber Security/Tool Uage/Stegnogrophy/stegseek/Image investigation.md",
@@ -192,7 +203,6 @@
     "Cyber Security/Cheat Sheets/Nikto",
     "Cyber Security/Basic Commands/Modifying Files (cat, wc, etc.).md",
     "Cyber Security/Tool Uage/SSH/SSH Port Filtered (Port Knocking).md",
-    "Cyber Security/Tool Uage/SSH/Public & Private Keys.md",
     "Cyber Security/Tool Uage/Reverse Shells/socat.md",
     "Cyber Security/Tool Uage/Reverse Shells/node.js.md",
     "Cyber Security/Tool Uage/Reverse Shells/Telnet.md",
@@ -206,19 +216,8 @@
     "Cyber Security/Services Hacking/NFS/Method 2.md",
     "Cyber Security/Services Hacking/NFS/Method 1 - Gaining shell access via Shares.md",
     "Cyber Security/Services Hacking/NFS",
-    "Cyber Security/Kill Chain/01 Recon/01.1 Scanning & Enumeration/01.1.2 Active Recon/finger.md",
-    "Cyber Security/Kill Chain/01 Recon/01.1 Scanning & Enumeration/01.1.2 Active Recon/SMTP.md",
-    "Cyber Security/Basic Commands/Modifying Files.md",
-    "Cyber Security/Tool Uage/Crack Zip Files/fcrackzip.md",
-    "Cyber Security/Tool Uage/Crack Zip Files/zip2john.md",
-    "Cyber Security/Platform hacking/General websites/General things to check.md",
-    "Cyber Security/Kill Chain/Privilege Escalation/01 Linux Apps and Services.md",
-    "Cyber Security/Priviledge Escaltion/Basic Checks.md",
-    "Cyber Security/Tool Uage/Reverse Shells/Web Shells.md",
     "Cyber Security/Services Hacking/FTP",
-    "Cyber Security/Priviledge Escaltion/LinPEAS",
     "Pasted image 20260404075940.png",
-    "Cyber Security/Tool Uage/Password Attacks-Cracking/passwd & shadow",
     "Pasted image 20260503065638.png",
     "Pasted image 20260503065620.png",
     "Pasted image 20260503065614.png",
