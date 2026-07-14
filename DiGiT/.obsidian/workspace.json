@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Cheat Sheets/Cheat sheet sites.md",
+                "file": "Cyber Security/Platform hacking/Windows (And AD)/C2C Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheat sheet sites"
+              "title": "C2C Server"
+            }
+          },
+          {
+            "id": "13ba168943a35379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Tool Uage/Kerberoasting/Custom Scripts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Custom Scripts"
+            }
+          },
+          {
+            "id": "258bd4b191808930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Tool Uage/Kerberoasting/-=Do This First!=-.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-=Do This First!=-"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,43 +209,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "6cf78b9cef6b1c09",
+  "active": "258bd4b191808930",
   "lastOpenFiles": [
+    "Cyber Security/Tool Uage/Kerberoasting/Custom Scripts.md",
+    "Cyber Security/Tool Uage/Kerberoasting/-=Do This First!=-.md",
+    "Cyber Security/Tool Uage/C2C Servers/Mythic/GodPotato.md",
+    "Cyber Security/Tool Uage/C2C Servers/Mythic/Basic Commands.md",
+    "Cyber Security/Priviledge Escaltion/Windows/Basic Steps.md",
+    "Cyber Security/Tool Uage/John the Ripper/Cracking HASHed passwords.md",
+    "Cyber Security/Tool Uage/nxc (NetExecute)/Link.md",
+    "Cyber Security/Tool Uage/nxc (NetExecute)",
+    "Cyber Security/Priviledge Escaltion/Resources.md",
+    "Cyber Security/Tool Uage/Kerberoasting",
+    "Cyber Security/Priviledge Escaltion/Windows/Check System account.md",
+    "Cyber Security/Tool Uage/BloodHound/Custom Script.md",
+    "Cyber Security/Tool Uage/BloodHound/Run Bloodhound collector.md",
+    "Cyber Security/Basic Commands/Modifying Files (cat, wc, etc.).md",
+    "Cyber Security/Basic Commands/List System info (cli).md",
+    "Cyber Security/Basic Commands/Find files & getting file info.md",
+    "Cyber Security/Tool Uage/Mimikatz/Dump HASHes.md",
+    "Cyber Security/Tool Uage/C2C Servers/Mythic/Create agent and copy to remote host.md",
+    "Cyber Security/Priviledge Escaltion/Linux",
+    "Cyber Security/Priviledge Escaltion/Windows",
+    "Cyber Security/Priviledge Escaltion/Linux/Basic Checks.md",
+    "Cyber Security/Tool Uage/C2C Servers/Mythic",
+    "Cyber Security/Tool Uage/C2C Servers",
+    "Cyber Security/Platform hacking/Windows (And AD)/C2C Server.md",
+    "Cyber Security/Tool Uage/BloodHound",
+    "Cyber Security/Tool Uage/Mimikatz",
+    "Cyber Security/Platform hacking/Windows (And AD)/Basics.md",
+    "Cyber Security/Cheat Sheets/Cheat sheet sites.md",
     "Cyber Security/Tool Uage/Reverse Shells/-= Cheat Cheet=-.md",
     "Cyber Security/Tool Uage/Reverse Shells/Windows/Reverse shell generator.md",
     "Cyber Security/Tool Uage/Reverse Shells/Windows/Powershell Reverse shell.md",
     "Cyber Security/Tool Uage/Reverse Shells/Windows/aspx Reverse Shells.md",
     "Cyber Security/Tool Uage/Reverse Shells/Windows/Powershell Reverse Shell generator.md",
     "Cyber Security/Tool Uage/Reverse Shells/Web Shells.md",
-    "Cyber Security/Tool Uage/Reverse Shells/aspx Reverse Shells 1.md",
     "Cyber Security/Tool Uage/Reverse Shells/Windows",
-    "Cyber Security/Platform hacking/Windows (And AD)/Basics.md",
-    "Cyber Security/Tool Uage/SSH/Public & Private Keys.md",
     "Cyber Security/Platform hacking/Windows (And AD)",
-    "Cyber Security/Tool Uage/Wireshark/Follow streams.md",
-    "Cyber Security/Tool Uage/Wireshark",
-    "Cyber Security/Tool Uage/Stegnogrophy/stegseek/Image investigation.md",
-    "Cyber Security/Tool Uage/Stegnogrophy/stegseek",
-    "Cyber Security/Tool Uage/Stegnogrophy",
-    "Cyber Security/Tool Uage/SSH/Shell Logout (Immediately logout after SSH).md",
-    "Cyber Security/Cheat Sheets/Nikto/Cheatsheet.md",
-    "Cyber Security/Cheat Sheets/Nikto",
-    "Cyber Security/Basic Commands/Modifying Files (cat, wc, etc.).md",
-    "Cyber Security/Tool Uage/SSH/SSH Port Filtered (Port Knocking).md",
-    "Cyber Security/Tool Uage/Reverse Shells/socat.md",
-    "Cyber Security/Tool Uage/Reverse Shells/node.js.md",
-    "Cyber Security/Tool Uage/Reverse Shells/Telnet.md",
-    "Cyber Security/Tool Uage/Reverse Shells/NetCat.md",
-    "Cyber Security/Tool Uage/Reverse Shells/GoLang.md",
-    "Cyber Security/Tool Uage/Metasploit/Enumerate SMTP Users.md",
-    "Cyber Security/Services Hacking/finger/Enumerate Users.md",
-    "Cyber Security/Services Hacking/finger",
-    "Cyber Security/Services Hacking/SMTP/Enumerate Users.md",
-    "Cyber Security/Services Hacking/SMTP",
-    "Cyber Security/Services Hacking/NFS/Method 2.md",
-    "Cyber Security/Services Hacking/NFS/Method 1 - Gaining shell access via Shares.md",
-    "Cyber Security/Services Hacking/NFS",
-    "Cyber Security/Services Hacking/FTP",
     "Pasted image 20260404075940.png",
     "Pasted image 20260503065638.png",
     "Pasted image 20260503065620.png",

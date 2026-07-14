@@ -12,3 +12,8 @@ Enumerate some more by grabbing the O/S Details, hostnames & SMB signing enabled
 ```
 nxc smb 10.2.10.10
 ```
+
+Find a directory on the windows drive:
+```
+dir \*uploads* /s /ad /b
+```
