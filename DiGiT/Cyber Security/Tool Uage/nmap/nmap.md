@@ -3,6 +3,13 @@ Nmap Full scan:
 nmap -A -sS -sV -sC -T5 -p- -oN nmap_full_scan.txt 10.50.10.139
 ```
 
+-sS => Stealth Scan - Do not use if printers are on the network
+-sV => Version Scan
+-sC => Script scan
+-p- => All Ports
+-Pn => No Ping
+-oN / -oA => Save output
+
 nmap Scripting Engine (NSE)
 ![[Pasted image 20260421062622.png]]
 

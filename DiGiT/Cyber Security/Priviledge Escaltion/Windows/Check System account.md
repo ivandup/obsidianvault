@@ -23,3 +23,10 @@ Check if "***SeImpersonatePrivilege***" is enabled
 
 If that is set, you can make use of GodPotato to escalate privileges.
 Check out "Tool Uage > C2C Servers > Mythic > GodPotato"
+
+You can Also use PrintSpoofer.exe
+
+AV avoidance, check out:
+https://github.com/chvancooten/OSEP-Code-Snippets
+https://github.com/chvancooten/OSEP-Code-Snippets/tree/main/Simple%20Shellcode%20Runner
+
