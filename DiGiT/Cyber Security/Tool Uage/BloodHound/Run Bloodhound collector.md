@@ -1,3 +1,12 @@
+Try:
+```
+bloodhound-python -u jon.snow -p iknownothing -d north.sevenkingdoms.local -dc WINTERFELL.north.sevenkingdoms.local -ns 10.2.10.11 -c All
+```
+This will save .json files in th current directory, you can import this into Bloodhound UI
+
+Alternative, run SharpHound on the target host to gather into.
+
+# Bloodhound with nxc
 From Kali, run the follwing against your Windows Domain Controller Target:
 We will be using NetExecute for this using the username and NTML HAShes you got from Mimikatz
 ```

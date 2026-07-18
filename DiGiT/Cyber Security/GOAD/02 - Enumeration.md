@@ -24,7 +24,7 @@ hodor
 jon.snow
 samwell.tarly:Heartsbane
 jeor.mormont
-sql_svc
+sql_svc:YouWillNotKerboroast1ngMeeeeee
 
 Creds:
 brandon.stark:iseedeadpeople

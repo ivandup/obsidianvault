@@ -33,12 +33,12 @@ nc -lvpn 9001
 Copy the encoded base64 into the command line and run it, you should now receive a reverse shell on the Kali box.
 
 Run whoami and see what priviledges the user has:
-```
+```cmd
 whoami /priv
 ```
 
 Have a look if this is enabled:
-```
+```cmd
 SeImpersonatePrivilege        Impersonate a client after authentication Enabled
 ```
 
